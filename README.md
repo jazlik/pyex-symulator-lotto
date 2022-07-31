@@ -1,1 +1,1 @@
-# workshop-symulator_lotto
+# symulator_lotto
